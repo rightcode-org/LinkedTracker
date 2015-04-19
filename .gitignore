@@ -1,0 +1,3 @@
+*.suo
+Viewer/bin/*
+Viewer/obj/*

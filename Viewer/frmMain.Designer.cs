@@ -298,7 +298,7 @@ namespace LinkedTrackerView
             this.label2.TabIndex = 4;
             this.label2.Text = "Filter:";
             // 
-            // Form1
+            // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -325,9 +325,9 @@ namespace LinkedTrackerView
             this.Controls.Add(this.pic2);
             this.Controls.Add(this.pic4);
             this.Controls.Add(this.pic1);
-            this.Name = "Form1";
+            this.Name = "frmMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "LinkedView";
+            this.Text = "LinkedTrackerView";
             ((System.ComponentModel.ISupportInitialize)(this.pic1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pic2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pic3)).EndInit();
